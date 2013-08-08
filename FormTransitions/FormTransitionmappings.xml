@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="FormTransition" id="FormTransition">
+    <container type="dialog" id="hdrOne" displayname="Popup"/>
+    <container type="dialog" id="ftrOne" displayname="Popup"/>
+    <container type="form" id="HomePage" displayname="Form"/>
+    <container type="form" id="frm1" displayname="Form"/>
+    <container type="form" id="frmAni" displayname="Form"/>
+    <container type="form" id="frmAni1" displayname="Form"/>
+    <container type="form" id="frmAni10" displayname="Form"/>
+    <container type="form" id="frmAni11" displayname="Form"/>
+    <container type="form" id="frmAni12" displayname="Form"/>
+    <container type="form" id="frmAni13" displayname="Form"/>
+    <container type="form" id="frmAni14" displayname="Form"/>
+    <container type="form" id="frmAni15" displayname="Form"/>
+    <container type="form" id="frmAni16" displayname="Form"/>
+    <container type="form" id="frmAni17" displayname="Form"/>
+    <container type="form" id="frmAni18" displayname="Form"/>
+    <container type="form" id="frmAni19" displayname="Form"/>
+    <container type="form" id="frmAni2" displayname="Form"/>
+    <container type="form" id="frmAni20" displayname="Form"/>
+    <container type="form" id="frmAni21" displayname="Form"/>
+    <container type="form" id="frmAni22" displayname="Form"/>
+    <container type="form" id="frmAni23" displayname="Form"/>
+    <container type="form" id="frmAni24" displayname="Form"/>
+    <container type="form" id="frmAni25" displayname="Form"/>
+    <container type="form" id="frmAni26" displayname="Form"/>
+    <container type="form" id="frmAni27" displayname="Form"/>
+    <container type="form" id="frmAni28" displayname="Form"/>
+    <container type="form" id="frmAni29" displayname="Form"/>
+    <container type="form" id="frmAni3" displayname="Form"/>
+    <container type="form" id="frmAni30" displayname="Form"/>
+    <container type="form" id="frmAni32" displayname="Form"/>
+    <container type="form" id="frmAni33" displayname="Form"/>
+    <container type="form" id="frmAni34" displayname="Form"/>
+    <container type="form" id="frmAni35" displayname="Form"/>
+    <container type="form" id="frmAni4" displayname="Form"/>
+    <container type="form" id="frmAni5" displayname="Form"/>
+    <container type="form" id="frmAni6" displayname="Form"/>
+    <container type="form" id="frmAni7" displayname="Form"/>
+    <container type="form" id="frmAni8" displayname="Form"/>
+    <container type="form" id="frmAni9" displayname="Form"/>
+    <container type="form" id="frmAniAnd" displayname="Form"/>
+    <container type="form" id="frmAniMoveInFromBottom" displayname="Form"/>
+    <container type="form" id="frmAniMoveInFromTop" displayname="Form"/>
+    <container type="form" id="frmAniSPA" displayname="Form"/>
+    <container type="form" id="frmAniWin" displayname="Form"/>
+    <container type="form" id="frmAniWin1" displayname="Form"/>
+    <container type="form" id="frmAniWin2" displayname="Form"/>
+    <container type="form" id="frmAniWin3" displayname="Form"/>
+    <container type="form" id="frmAniWin4" displayname="Form"/>
+    <container type="form" id="frmAniWin5" displayname="Form"/>
+    <globalsequences/>
+    <skins/>
+</application>

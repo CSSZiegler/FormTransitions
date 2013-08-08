@@ -1,0 +1,4 @@
+<globals>
+    <attributes datatype="string" value="" name="varTransitionDirection"/>
+    <attributes datatype="string" value="" name="varTransitionEffect"/>
+</globals>
