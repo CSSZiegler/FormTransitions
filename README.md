@@ -11,5 +11,5 @@ This application will showcase the following features of the Form Transition
 * inTransitionConfig
 * outTransitionConfig
 
-# Developed Platforms/Channels:
+# Supported platforms:
 iPhone, iPad, Android, Android tablet, SPA iPhone, SPA iPad, SPA Android, SPA Android tablet and DesktopWeb
