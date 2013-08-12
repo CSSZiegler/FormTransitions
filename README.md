@@ -10,3 +10,6 @@ This application will showcase the following features of the Form Transition
 
 * inTransitionConfig
 * outTransitionConfig
+
+# Developed Platforms/Channels:
+iPhone, iPad, Android, Android tablet, SPA iPhone, SPA iPad, SPA Android, SPA Android tablet and DesktopWeb
