@@ -14,7 +14,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -141,7 +147,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -268,7 +280,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -395,7 +413,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -522,7 +546,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -649,7 +679,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -776,7 +812,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -903,7 +945,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -1030,7 +1078,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="bg.png" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -1157,7 +1211,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -1284,7 +1344,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -1411,7 +1477,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="wall.png" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>
@@ -1538,7 +1610,13 @@
         <att name="Background_gradient_top_colorSet" value="0" type="int"/>
         <att name="Background_gradient_bottom_colorSet" value="0" type="int"/>
         <att name="Background_image" value="" type="String"/>
+        <att name="MobileBackground_image" value="" type="String"/>
+        <att name="TabletBackground_image" value="" type="String"/>
+        <att name="DesktopBackground_image" value="" type="String"/>
         <att name="Right_background_image" value="" type="String"/>
+        <att name="Mobile_right_background_image" value="" type="String"/>
+        <att name="Tablet_right_background_image" value="" type="String"/>
+        <att name="Desktop_right_background_image" value="" type="String"/>
         <att name="Bg_iphone_image" value="" type="String"/>
         <att name="Bg_android_image" value="" type="String"/>
         <att name="Bg_palm_image" value="" type="String"/>

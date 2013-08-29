@@ -1445,11 +1445,11 @@
                 <updatedToNewTableRowData>true</updatedToNewTableRowData>
                 <updatedToNewImageData>true</updatedToNewImageData>
             </choiceData>
-            <widgetSkin>Skin Defaults</widgetSkin>
-            <rowSkin>Skin Defaults</rowSkin>
-            <rowFocusSkin>Skin Defaults</rowFocusSkin>
-            <alternateRowSkin>Skin Defaults</alternateRowSkin>
-            <secHeaderSkin>Skin Defaults</secHeaderSkin>
+            <widgetSkin>sknSeg2NormalSampleApp</widgetSkin>
+            <rowSkin>sknSeg2NormalSampleApp</rowSkin>
+            <rowFocusSkin>sknSeg2FocusSampleApp</rowFocusSkin>
+            <alternateRowSkin>sknSeg2NormalSampleApp</alternateRowSkin>
+            <secHeaderSkin>sknSeg2NormalSampleApp</secHeaderSkin>
             <thickness>1</thickness>
             <sepColor>100,100,100</sepColor>
             <seperator_transpy>0</seperator_transpy>
@@ -1548,6 +1548,12 @@
             <behavior>0</behavior>
             <selection_indctrId>None</selection_indctrId>
             <render_seperator>true</render_seperator>
+            <c_viewConfig></c_viewConfig>
+            <rowItemWidth></rowItemWidth>
+            <coverflowDepth></coverflowDepth>
+            <coverflowAngle></coverflowAngle>
+            <containerHeightReference>SEGUI_HEIGHT_BY_FORM_REFERENCE</containerHeightReference>
+            <containerHeight></containerHeight>
             <iphone_executeonClosure>0</iphone_executeonClosure>
             <iphone_enableDictionary>false</iphone_enableDictionary>
             <iphone_npi>true</iphone_npi>
@@ -1587,6 +1593,7 @@
             <tooltip></tooltip>
             <android_pressed_skin>Skin Defaults</android_pressed_skin>
             <android_dockingHeader>false</android_dockingHeader>
+            <android_view>0</android_view>
             <blockedUISkin>Skin Defaults</blockedUISkin>
             <tc_border>3</tc_border>
             <tc_defaultSelection>true</tc_defaultSelection>
@@ -1648,12 +1655,12 @@
                     <rc_blackberry>true</rc_blackberry>
                     <rc_ipad>true</rc_ipad>
                     <rc_iphone>true</rc_iphone>
-                    <rc_j2me>true</rc_j2me>
-                    <rc_palm>true</rc_palm>
-                    <rc_symbian>true</rc_symbian>
+                    <rc_j2me>false</rc_j2me>
+                    <rc_palm>false</rc_palm>
+                    <rc_symbian>false</rc_symbian>
                     <rc_windows8>true</rc_windows8>
                     <rc_winmobile>true</rc_winmobile>
-                    <rc_winmobile6x>true</rc_winmobile6x>
+                    <rc_winmobile6x>false</rc_winmobile6x>
                     <rc_winphone8>true</rc_winphone8>
                     <tabspa_ipad>true</tabspa_ipad>
                     <tabspa_windows>true</tabspa_windows>

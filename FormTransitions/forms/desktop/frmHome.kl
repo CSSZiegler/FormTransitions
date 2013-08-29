@@ -3413,7 +3413,7 @@
                                 <left>5</left>
                                 <right>0</right>
                                 <top>0</top>
-                                <bottom>2</bottom>
+                                <bottom>8</bottom>
                                 <unit>%</unit>
                             </defaults>
                             <desktop_kiosk>
@@ -5358,7 +5358,7 @@
                                 <left>5</left>
                                 <right>0</right>
                                 <top>0</top>
-                                <bottom>2</bottom>
+                                <bottom>8</bottom>
                                 <unit>%</unit>
                             </defaults>
                             <desktop_kiosk>
