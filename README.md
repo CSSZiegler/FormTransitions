@@ -11,12 +11,17 @@ This application will showcase the following features of the Form Transition
 * outTransitionConfig
 
 # Supported platforms:
-* iPhone
-* iPad
-* Android
-* Android tablet
-* SPA iPhone
-* SPA iPad
-* SPA Android
-* SPA Android tablet
-* DesktopWeb
+**Mobile**
+ * Android
+ * iPhone
+ * SPA Android
+ * SPA iPhone
+ 
+**Tablet** 
+ * Anroid
+ * iPad
+ * SPA iPad
+ * SPA Android
+ 
+**Desktop**
+ * DesktopWeb
