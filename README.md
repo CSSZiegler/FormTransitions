@@ -18,7 +18,7 @@ This application will showcase the following features of the Form Transition
  * SPA iPhone
  
 **Tablet** 
- * Anroid
+ * Android
  * iPad
  * SPA iPad
  * SPA Android
