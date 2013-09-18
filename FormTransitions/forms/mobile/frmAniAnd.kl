@@ -114,23 +114,23 @@
         <rendererData1>
             <desktop_kiosk_channel>true</desktop_kiosk_channel>
             <desktop_web_channel>true</desktop_web_channel>
-            <mixed_android>true</mixed_android>
+            <mixed_android>false</mixed_android>
             <mixed_android_tab>true</mixed_android_tab>
-            <mixed_bb>true</mixed_bb>
+            <mixed_bb>false</mixed_bb>
             <mixed_ipad>true</mixed_ipad>
-            <mixed_iphone>true</mixed_iphone>
+            <mixed_iphone>false</mixed_iphone>
             <rc_android>true</rc_android>
             <rc_android_tab>true</rc_android_tab>
             <rc_blackberry>true</rc_blackberry>
-            <rc_blackberry10>true</rc_blackberry10>
+            <rc_blackberry10>false</rc_blackberry10>
             <rc_ipad>true</rc_ipad>
             <rc_iphone>true</rc_iphone>
-            <rc_j2me>true</rc_j2me>
-            <rc_palm>true</rc_palm>
-            <rc_symbian>true</rc_symbian>
+            <rc_j2me>false</rc_j2me>
+            <rc_palm>false</rc_palm>
+            <rc_symbian>false</rc_symbian>
             <rc_windows8>true</rc_windows8>
             <rc_winmobile>true</rc_winmobile>
-            <rc_winmobile6x>true</rc_winmobile6x>
+            <rc_winmobile6x>false</rc_winmobile6x>
             <rc_winphone8>true</rc_winphone8>
             <tabspa_ipad>true</tabspa_ipad>
             <tabspa_windows>true</tabspa_windows>
@@ -150,7 +150,7 @@
             <tc_xhtml_js>true</tc_xhtml_js>
             <wrapper_android>true</wrapper_android>
             <wrapper_android_tab>true</wrapper_android_tab>
-            <wrapper_bb>true</wrapper_bb>
+            <wrapper_bb>false</wrapper_bb>
             <wrapper_ipad>true</wrapper_ipad>
             <wrapper_iphone>true</wrapper_iphone>
         </rendererData1>
@@ -1481,12 +1481,16 @@
                                 <key>js</key>
                                 <value>onClickOfFrmAniAndSeg</value>
                             </entry>
+                            <entry>
+                                <key>lua</key>
+                                <value>None</value>
+                            </entry>
                         </functionNameMap>
                         <paramData>
                             <datatype>string</datatype>
                             <paramName>eventobj</paramName>
                             <valType>0</valType>
-                            <value>eventobject</value>
+                            <value></value>
                             <valueMap>
                                 <entry>
                                     <key>js</key>
@@ -1503,6 +1507,23 @@
                                         <paramName>eventobj</paramName>
                                         <valType>0</valType>
                                         <value>eventobject</value>
+                                        <valueMap>
+                                            <entry>
+                                                <key>js</key>
+                                                <value>eventobject</value>
+                                            </entry>
+                                        </valueMap>
+                                    </paramList>
+                                </value>
+                            </entry>
+                            <entry>
+                                <key>lua</key>
+                                <value>
+                                    <paramList>
+                                        <datatype>string</datatype>
+                                        <paramName>eventobj</paramName>
+                                        <valType>0</valType>
+                                        <value></value>
                                         <valueMap>
                                             <entry>
                                                 <key>js</key>

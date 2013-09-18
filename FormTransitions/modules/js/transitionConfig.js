@@ -25,6 +25,8 @@ function home()
 		frmAniAnd.show();
 	else if (kony.os.deviceInfo().name == "thinclient")
 		frmAniSPA.show();
+	else if (kony.os.deviceInfo().name == "WindowsPhone")
+		frmAniWin.show();
 	else if (kony.os.deviceInfo().name == "Windows 8")
 		alert("Not Applicable for windows 8");
 	else frmAni.show();
@@ -79,6 +81,30 @@ function onClickOfFrmAniSPASeg(eventobj)
 		frmAniright.show();
 	else if (focIn==3)
 		frmAnileft.show();
+	else
+	   kony.print("no form shown");
+ 
+}
+
+/*****************************************************************
+*	Name    : onClickOfFrmAniwinSeg
+*	Author  : Kony 
+*	Purpose : To navigate to the appropriate animated forms from 'frmAniWin' .This function is meant for windows platform.
+******************************************************************/
+
+function onClickOfFrmAniWinSeg(eventobj)
+{
+	var focIn = eventobj.selectedIndex[1];
+	if(focIn==0)
+		frmAniRotate3DSingle .show();
+	else if(focIn==1)
+		frmAniRotate3DDual.show();
+	else if(focIn==2)
+		frmAniSlide.show();
+	else if (focIn==3)
+		frmAniPop.show();
+	else if(focIn==4) 
+		frmAniSqueeze.show();
 	else
 	   kony.print("no form shown");
  
