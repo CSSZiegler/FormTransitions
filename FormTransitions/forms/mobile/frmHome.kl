@@ -114,11 +114,11 @@
         <rendererData1>
             <desktop_kiosk_channel>true</desktop_kiosk_channel>
             <desktop_web_channel>true</desktop_web_channel>
-            <mixed_android>true</mixed_android>
+            <mixed_android>false</mixed_android>
             <mixed_android_tab>true</mixed_android_tab>
-            <mixed_bb>true</mixed_bb>
+            <mixed_bb>false</mixed_bb>
             <mixed_ipad>true</mixed_ipad>
-            <mixed_iphone>true</mixed_iphone>
+            <mixed_iphone>false</mixed_iphone>
             <rc_android>true</rc_android>
             <rc_android_tab>true</rc_android_tab>
             <rc_blackberry>true</rc_blackberry>
@@ -150,7 +150,7 @@
             <tc_xhtml_js>true</tc_xhtml_js>
             <wrapper_android>true</wrapper_android>
             <wrapper_android_tab>true</wrapper_android_tab>
-            <wrapper_bb>true</wrapper_bb>
+            <wrapper_bb>false</wrapper_bb>
             <wrapper_ipad>true</wrapper_ipad>
             <wrapper_iphone>true</wrapper_iphone>
         </rendererData1>
@@ -6164,7 +6164,7 @@
                 <rc_android>false</rc_android>
                 <rc_android_tab>true</rc_android_tab>
                 <rc_blackberry>false</rc_blackberry>
-                <rc_blackberry10>true</rc_blackberry10>
+                <rc_blackberry10>false</rc_blackberry10>
                 <rc_ipad>true</rc_ipad>
                 <rc_iphone>false</rc_iphone>
                 <rc_j2me>false</rc_j2me>
@@ -6178,7 +6178,7 @@
                 <tabspa_windows>true</tabspa_windows>
                 <tabspaspa_android>true</tabspaspa_android>
                 <tc_spaandroid>true</tc_spaandroid>
-                <tc_spabb>false</tc_spabb>
+                <tc_spabb>true</tc_spabb>
                 <tc_spabb_nth>false</tc_spabb_nth>
                 <tc_spaiphone>true</tc_spaiphone>
                 <tc_spawindows>false</tc_spawindows>
@@ -7437,7 +7437,7 @@
                 <seqname></seqname>
             </evtSequence>
         </winphone8_ondevback_root>
-        <winphone8_animateheaderfooter>false</winphone8_animateheaderfooter>
+        <winphone8_animateheaderfooter>true</winphone8_animateheaderfooter>
         <bb10_autofocus>true</bb10_autofocus>
         <bb10_titleSkinId>Skin Defaults</bb10_titleSkinId>
         <blackberry10_fixed_items>0</blackberry10_fixed_items>

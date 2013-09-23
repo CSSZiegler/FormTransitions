@@ -522,8 +522,8 @@
         <att name="Chart2d3dProperties" value="" type="String"/>
     </skin>
     <skin>
-        <att name="Name" value="sknSeg2FocusSampleApp" type="String"/>
-        <att name="WidgetType" value="Segment2" type="String"/>
+        <att name="Name" value="sknBtnFocusSampleApp" type="String"/>
+        <att name="WidgetType" value="Button" type="String"/>
         <att name="Bg_type" value="0" type="int"/>
         <att name="Background_color" value="255,255,255" type="RGB"/>
         <att name="Rightbackground_color" value="255,255,255" type="RGB"/>
@@ -583,15 +583,15 @@
         <att name="Bg_spawindows_tablet_image" value="" type="String"/>
         <att name="Font_weight" value="normal" type="String"/>
         <att name="Font_style" value="none" type="String"/>
-        <att name="Font_size" value="138" type="String"/>
-        <att name="Font_color" value="0,0,0" type="RGB"/>
+        <att name="Font_size" value="130" type="String"/>
+        <att name="Font_color" value="60,148,186" type="RGB"/>
         <att name="Font_color_alpha" value="0" type="String"/>
         <att name="Rightfont_weight" value="normal" type="String"/>
         <att name="Rightfont_style" value="" type="String"/>
         <att name="Rightfont_size" value="100" type="String"/>
         <att name="Rightfont_name" value="None" type="String"/>
         <att name="BorderType" value="0" type="int"/>
-        <att name="Border_color" value="255,255,255" type="RGB"/>
+        <att name="Border_color" value="60,148,186" type="RGB"/>
         <att name="Border_width" value="2" type="Integer"/>
         <att name="Border_style" value="0" type="int"/>
         <att name="Bg_img_style" value="0" type="int"/>
@@ -641,6 +641,7 @@
        <att name="Child_leftBorderRadius" value="10" type="int"/>
        <att name="Child_rightBorderRadius" value="10" type="int"/>
        <att name="Child_bottomBorderRadius" value="10" type="int"/>
+        <att name="FontNameMap" value="WinMobile,GenericSansSerif" type="map"/>
         <att name="ApplicablePlatforms" value="1111100111110111111111110000111" type="String"/>
         <att name="UseNative" value="false" type="Boolean"/>
         <att name="Font_color_override" value="true" type="Boolean"/>
@@ -783,8 +784,8 @@
         <att name="Chart2d3dProperties" value="" type="String"/>
     </skin>
     <skin>
-        <att name="Name" value="sknBtnFocusSampleApp" type="String"/>
-        <att name="WidgetType" value="Button" type="String"/>
+        <att name="Name" value="sknSeg2FocusSampleApp" type="String"/>
+        <att name="WidgetType" value="Segment2" type="String"/>
         <att name="Bg_type" value="0" type="int"/>
         <att name="Background_color" value="255,255,255" type="RGB"/>
         <att name="Rightbackground_color" value="255,255,255" type="RGB"/>
@@ -844,15 +845,15 @@
         <att name="Bg_spawindows_tablet_image" value="" type="String"/>
         <att name="Font_weight" value="normal" type="String"/>
         <att name="Font_style" value="none" type="String"/>
-        <att name="Font_size" value="130" type="String"/>
-        <att name="Font_color" value="60,148,186" type="RGB"/>
+        <att name="Font_size" value="138" type="String"/>
+        <att name="Font_color" value="0,0,0" type="RGB"/>
         <att name="Font_color_alpha" value="0" type="String"/>
         <att name="Rightfont_weight" value="normal" type="String"/>
         <att name="Rightfont_style" value="" type="String"/>
         <att name="Rightfont_size" value="100" type="String"/>
         <att name="Rightfont_name" value="None" type="String"/>
         <att name="BorderType" value="0" type="int"/>
-        <att name="Border_color" value="60,148,186" type="RGB"/>
+        <att name="Border_color" value="255,255,255" type="RGB"/>
         <att name="Border_width" value="2" type="Integer"/>
         <att name="Border_style" value="0" type="int"/>
         <att name="Bg_img_style" value="0" type="int"/>
@@ -902,7 +903,6 @@
        <att name="Child_leftBorderRadius" value="10" type="int"/>
        <att name="Child_rightBorderRadius" value="10" type="int"/>
        <att name="Child_bottomBorderRadius" value="10" type="int"/>
-        <att name="FontNameMap" value="WinMobile,GenericSansSerif" type="map"/>
         <att name="ApplicablePlatforms" value="1111100111110111111111110000111" type="String"/>
         <att name="UseNative" value="false" type="Boolean"/>
         <att name="Font_color_override" value="true" type="Boolean"/>

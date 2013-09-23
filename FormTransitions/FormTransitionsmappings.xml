@@ -6,45 +6,11 @@
     <container displayname="Form" id="frmAniright" type="form"/>
     <container displayname="Form" id="frmAnitop" type="form"/>
     <container displayname="Form" id="frmHome" type="form"/>
-    <container displayname="Form" id="frmAni" type="form"/>
-    <container displayname="Form" id="frmAniAnd" type="form"/>
-    <container displayname="Form" id="frmAniCloth" type="form"/>
-    <container displayname="Form" id="frmAniCurl" type="form"/>
-    <container displayname="Form" id="frmAniDoor" type="form"/>
-    <container displayname="Form" id="frmAniFade" type="form"/>
-    <container displayname="Form" id="frmAniFlip" type="form"/>
-    <container displayname="Form" id="frmAniFlipLeft" type="form"/>
-    <container displayname="Form" id="frmAniFlipRight" type="form"/>
-    <container displayname="Form" id="frmAniFourSplitIn" type="form"/>
-    <container displayname="Form" id="frmAniFourSplitOut" type="form"/>
-    <container displayname="Form" id="frmAniFourSplitRotateIn" type="form"/>
-    <container displayname="Form" id="frmAniFourSplitRotateOut" type="form"/>
-    <container displayname="Form" id="frmAniMoveIn" type="form"/>
-    <container displayname="Form" id="frmAniMoveInFromBottom" type="form"/>
-    <container displayname="Form" id="frmAniMoveInFromTop" type="form"/>
-    <container displayname="Form" id="frmAniPush" type="form"/>
-    <container displayname="Form" id="frmAniReveal" type="form"/>
-    <container displayname="Form" id="frmAniRotateExchange" type="form"/>
     <container displayname="Form" id="frmAniSPA" type="form"/>
-    <container displayname="Form" id="frmAniSwitchLeft" type="form"/>
-    <container displayname="Form" id="frmAniSwitchRight" type="form"/>
-    <container displayname="Form" id="frmAniTwoSplitHorizontalIn" type="form"/>
-    <container displayname="Form" id="frmAniTwoSplitHorizontalOut" type="form"/>
-    <container displayname="Form" id="frmAniTwoSplitVerticalIn" type="form"/>
-    <container displayname="Form" id="frmAniTwoSplitVerticalOut" type="form"/>
     <container displayname="Form" id="frmAnibottom" type="form"/>
-    <container displayname="Form" id="frmAnibottomlefttop" type="form"/>
-    <container displayname="Form" id="frmAnibottomtop" type="form"/>
-    <container displayname="Form" id="frmAnibottomtopstyle1" type="form"/>
-    <container displayname="Form" id="frmAnifromcenter" type="form"/>
-    <container displayname="Form" id="frmAnifromleft" type="form"/>
-    <container displayname="Form" id="frmAnifromright" type="form"/>
     <container displayname="Form" id="frmAnileft" type="form"/>
     <container displayname="Form" id="frmAniright" type="form"/>
-    <container displayname="Form" id="frmAnitoleft" type="form"/>
     <container displayname="Form" id="frmAnitop" type="form"/>
-    <container displayname="Form" id="frmAnitoprightbottom" type="form"/>
-    <container displayname="Form" id="frmAnitoright" type="form"/>
     <container displayname="Form" id="frmHome" type="form"/>
     <container displayname="Form" id="frmAni" type="form"/>
     <container displayname="Form" id="frmAniAnd" type="form"/>
@@ -62,22 +28,16 @@
     <container displayname="Form" id="frmAniMoveIn" type="form"/>
     <container displayname="Form" id="frmAniMoveInFromBottom" type="form"/>
     <container displayname="Form" id="frmAniMoveInFromTop" type="form"/>
-    <container displayname="Form" id="frmAniPop" type="form"/>
     <container displayname="Form" id="frmAniPush" type="form"/>
     <container displayname="Form" id="frmAniReveal" type="form"/>
-    <container displayname="Form" id="frmAniRotate3DDual" type="form"/>
-    <container displayname="Form" id="frmAniRotate3DSingle" type="form"/>
     <container displayname="Form" id="frmAniRotateExchange" type="form"/>
     <container displayname="Form" id="frmAniSPA" type="form"/>
-    <container displayname="Form" id="frmAniSlide" type="form"/>
-    <container displayname="Form" id="frmAniSqueeze" type="form"/>
     <container displayname="Form" id="frmAniSwitchLeft" type="form"/>
     <container displayname="Form" id="frmAniSwitchRight" type="form"/>
     <container displayname="Form" id="frmAniTwoSplitHorizontalIn" type="form"/>
     <container displayname="Form" id="frmAniTwoSplitHorizontalOut" type="form"/>
     <container displayname="Form" id="frmAniTwoSplitVerticalIn" type="form"/>
     <container displayname="Form" id="frmAniTwoSplitVerticalOut" type="form"/>
-    <container displayname="Form" id="frmAniWin" type="form"/>
     <container displayname="Form" id="frmAnibottom" type="form"/>
     <container displayname="Form" id="frmAnibottomlefttop" type="form"/>
     <container displayname="Form" id="frmAnibottomtop" type="form"/>
